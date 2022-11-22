@@ -1,7 +1,6 @@
 # HCV-ARR
-This repo contains code for our AAAI 2023 paper.
+This repo contains code for: 
 
-Hierarchical ConViT with Attention-based Relational Reasoner for Visual Analogical Reasoning
+Wentao He, Jialu Zhang, Jianfeng Ren, Ruibin Bai, Xudong Jiang. [**"Hierarchical ConViT with Attention-based Relational Reasoner for Visual Analogical Reasoning"**](). AAAI 2023. 
 
-Wentao He, Jialu Zhang, Jianfeng Ren, Ruibin Bai, Xudong Jiang
 
