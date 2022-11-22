@@ -5,4 +5,4 @@ This repo contains code for our AAAI 2023 paper:
 Wentao He, Jialu Zhang, Jianfeng Ren, Ruibin Bai, Xudong Jiang  
 *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2023. 
 
-![architecture](figures/block-diagram.pdf)
+![architecture](figures/block-diagram.png)
