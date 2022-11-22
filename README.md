@@ -11,6 +11,10 @@ Wentao He, Jialu Zhang, Jianfeng Ren, Ruibin Bai, Xudong Jiang
 ## Requirements
 * Python 3.6
 * 
+See `requirements.txt` for a full list of packages required. To install the dependencies, run 
+```
+pip install -r requirements.txt
+```
 
 ## Datasets
 * [RAVEN](https://github.com/WellyZhang/RAVEN) (CVPR, 2019)
@@ -18,10 +22,6 @@ Wentao He, Jialu Zhang, Jianfeng Ren, Ruibin Bai, Xudong Jiang
 * [I-RAVEN](https://github.com/husheng12345/SRAN) (AAAI, 2021)
 
 ## Usage
-See `requirements.txt` for a full list of packages required. To install the dependencies, run 
-```
-pip install -r requirements.txt
-```
 
 ### Test using pre-trained models
 1. Download the pre-trained models different datasets from [here](). 
