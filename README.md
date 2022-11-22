@@ -13,11 +13,18 @@ Wentao He, Jialu Zhang, Jianfeng Ren, Ruibin Bai, Xudong Jiang
 * 
 
 ## Datasets
-* [RAVEN](https://github.com/WellyZhang/RAVEN)  
-* [RAVEN-FAIR](https://github.com/yanivbenny/RAVEN_FAIR)  
-* [I-RAVEN](https://github.com/husheng12345/SRAN)  
+* [RAVEN](https://github.com/WellyZhang/RAVEN) (CVPR, 2019)
+* [RAVEN-FAIR](https://github.com/yanivbenny/RAVEN_FAIR) (CVPR, 2021)
+* [I-RAVEN](https://github.com/husheng12345/SRAN) (AAAI, 2021)
 
 ## Usage
+
+### Test using pre-trained models
+1. Download the pre-trained models different datasets from [here](). 
+2. Run `$ python src/train.py --dataset <DATASET> --path <PATH-TO-DATASETS> --wd <WD>` to see the test results. 
+
+### Train from scratch
+
 
 ## Citation
 We thank you for showing interest in our work. 
