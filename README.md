@@ -2,7 +2,7 @@
 This repo contains code for our AAAI 2023 paper: 
 
 [**Hierarchical ConViT with Attention-based Relational Reasoner for Visual Analogical Reasoning**]()  
-Wentao He, Jialu Zhang, Jianfeng Ren, Ruibin Bai, Xudong Jiang  
+Wentao He, Jialu Zhang, [Jianfeng Ren](https://research.nottingham.edu.cn/en/persons/jianfeng-ren), [Ruibin Bai](http://www.cs.nott.ac.uk/~znzbrbb/), [Xudong Jiang](https://personal.ntu.edu.sg/exdjiang/default.htm)  
 *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2023. 
 
 ![architecture](figures/block-diagram.png)
