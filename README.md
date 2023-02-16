@@ -11,8 +11,9 @@ Wentao He, Jialu Zhang, [Jianfeng Ren](https://research.nottingham.edu.cn/en/per
 
 
 ## Requirements
-* Python = 3.6
-* torch = 1.8.1+cu111
+* Python = 3.6+
+* torch = 1.4.0+
+* torchvision = 
 
 See `requirements.txt` for a full list of packages required. To install the dependencies, run 
 ```
