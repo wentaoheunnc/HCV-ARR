@@ -5,7 +5,7 @@ This repo contains code for our AAAI 2023 paper:
 Wentao He, Jialu Zhang, [Jianfeng Ren](https://research.nottingham.edu.cn/en/persons/jianfeng-ren), [Ruibin Bai](http://www.cs.nott.ac.uk/~znzbrbb/), [Xudong Jiang](https://personal.ntu.edu.sg/exdjiang/default.htm)  
 *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2023. 
 
-[[Paper](https://drive.google.com/file/d/1NXSt0GSktbz62kk-L61DxOjzcXMtQHR4/view?usp=sharing)] | [[Supplementary](https://drive.google.com/file/d/1JlIRvlWm6XLhi0y-IW5W5bei4eqXNONO/view?usp=sharing)] | [[Video]()] | [[Poster](https://drive.google.com/file/d/1dr70H58dDlsY49k7O0-FdkLFJaVMelIN/view?usp=sharing)] | [Media: UNNC FOSE Wechat]
+[[Paper](https://drive.google.com/file/d/1NXSt0GSktbz62kk-L61DxOjzcXMtQHR4/view?usp=sharing)] | [[Supplementary](https://drive.google.com/file/d/1JlIRvlWm6XLhi0y-IW5W5bei4eqXNONO/view?usp=sharing)] | [[Video](https://drive.google.com/file/d/1ZiwTPw2T0QUBcVJRh8Q7mvpN2pf3wECW/view?usp=sharing)] | [[Poster](https://drive.google.com/file/d/1dr70H58dDlsY49k7O0-FdkLFJaVMelIN/view?usp=sharing)] 
 
 ![architecture](figures/block-diagram.png)
 
