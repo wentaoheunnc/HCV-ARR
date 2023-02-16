@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ## Usage
 
 ### Test using pre-trained models
-1. Download the pre-trained models for different datasets from [here](). 
+1. Download the pre-trained models for different datasets from [here](https://drive.google.com/drive/folders/1dwefHHAPMEy_4M040VSq3PLMlOokADDG?usp=share_link). 
 2. Run `$ python train.py --dataset <DATASET> --path <PATH-TO-DATASETS>` to see the test results. 
 
 ### Train from scratch
