@@ -38,7 +38,7 @@ If you find the paper and/or the code helpful, please consider citing us using:
 @inproceedings{he2023hierarchical,
   title={Hierarchical ConViT with Attention-based Relational Reasoner for Visual Analogical Reasoning},
   author={He, Wentao and Zhang, Jialu and Ren, Jianfeng and Bai, Ruibin and Jiang, Xudong},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the 37th AAAI Conference on Artificial Intelligence},
   year={2023}
 }
 ```
