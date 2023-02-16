@@ -1,0 +1,8 @@
+numpy
+torch
+torchvision
+tqdm
+iopath
+termcolor
+pyyaml
+scikit-image
