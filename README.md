@@ -5,14 +5,15 @@ This repo contains code for our AAAI 2023 paper:
 Wentao He, Jialu Zhang, [Jianfeng Ren](https://research.nottingham.edu.cn/en/persons/jianfeng-ren), [Ruibin Bai](http://www.cs.nott.ac.uk/~znzbrbb/), [Xudong Jiang](https://personal.ntu.edu.sg/exdjiang/default.htm)  
 *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2023. 
 
-[Paper] | [Supplementary] | [Video] | [Poster] | [Media: UNNC FOSE Wechat]
+[[Paper](https://drive.google.com/file/d/1NXSt0GSktbz62kk-L61DxOjzcXMtQHR4/view?usp=sharing)] | [[Supplementary](https://drive.google.com/file/d/1JlIRvlWm6XLhi0y-IW5W5bei4eqXNONO/view?usp=sharing)] | [[Video]()] | [[Poster](https://drive.google.com/file/d/1dr70H58dDlsY49k7O0-FdkLFJaVMelIN/view?usp=sharing)] | [Media: UNNC FOSE Wechat]
 
 ![architecture](figures/block-diagram.png)
 
 
 ## Requirements
-* Python 3.6
-* 
+* Python = 3.6
+* torch = 1.8.1+cu111
+
 See `requirements.txt` for a full list of packages required. To install the dependencies, run 
 ```
 pip install -r requirements.txt
