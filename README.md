@@ -51,4 +51,4 @@ If you find the paper and/or the code helpful, please consider citing us using:
 
 ## Acknowledgement
 
-We'd like to express our sincere gratitude towards all the advisors and anonymous reviewers for helping us improve the paper. We'd like to thank authors for all the pioneer works in this research fields. 
+We'd like to express our sincere gratitude towards all the advisors and anonymous reviewers for helping us improve the paper. We'd like to thank authors for all the pioneer works in this research field. 
